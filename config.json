@@ -1,0 +1,10 @@
+{
+    "prefix": "-",
+    "token": "No looky :)",
+    "bot_age" : 1,
+    "words_array" : ["Hi", "Bye", "This is array"],
+    "bot_info" : {
+        "name" : "Andre's Learning Bot",
+        "version" : 1.0
+    }
+}
